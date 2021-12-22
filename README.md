@@ -1,0 +1,2 @@
+# polish
+Wordsets in polish
