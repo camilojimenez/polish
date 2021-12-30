@@ -1,133 +1,141 @@
-E|to his parents’ house in the countryside
-P|do swoich rodziców na wieś
+E|Unfortunately
+P|Niestety
 
 
-E|one seat by Tomek’s table
-P|że przy stoliku Tomka jest wolne miejsce
+E|Although
+P|Pomimo tego
 
 
-E|He had only half an hour left
-P|Zostało już tylko pół godziny
+E|We will call you back
+P|Odezwiemy
 
 
-E|Perhaps the employees have a lunch break,
-P|Pewnie pracownicy mają przerwę,
+E|give his all
+P|dać z siebie wszystko
 
 
-E|He was looking at the sweep hand
-P|Przez chwilę wpatrywał się jeszcze we wskazówkę zegara,
+E|remained empty
+P|pozostawała pusta
 
 
-E|he would have had to move
-P|będzie musiał wyprowadzić się
-
-
-E|the more stressed he felt
-P|tym bardziej się stresował
-
-
-E|each time
-P|za każdym razem
-
-
-E|Unfortunately,
-P|Niestety,
-
-
-E|she asked
-P|zapytała
-
-
-E|Tomek decided to sit in the café
-P|Tomek postanowił usiąść w firmowym bufecie
-
-
-E|what he was going to say,
-P|co chce powiedzieć,
+E|in the countryside
+P|na wieś
 
 
 E|Although he knew
 P|Pomimo tego że wiedział
 
 
-E|Tomek was really close to the place
-P|Tomek był już o krok od miejsca
+E|She ordered  coffee
+P|Zamówiła kawę
 
 
-E|The meeting with the recruiter
-P|Do spotkania z rekruterem
+E|she saw
+P|zauważyła
 
 
-E|He knew
-P|Wiedział,
+E|quickly realized
+P|szybko zorientowała się,
 
 
-E|It was a cold, foggy day
-P|Był mglisty, zimny poranek
+E|accelerate
+P|przyspieszać
 
 
-E|that the café is full of people
-P|że bufet jest pełen ludzi
+E|ten job interviews
+P|dziesięciu rozmowach o pracę
 
 
-E|that seemed to move faster and faster
-P|która zdawała się przyspieszać z sekundy na sekundę
+E|He was sitting at his desk
+P|Siedział przy biurku
 
 
-E|that if he didn’t get this job,
-P|że jeśli nie dostanie tej pracy,
+E|turned green
+P|zmieniło się na zielone
 
 
-E|was to begin in 45 minutes
-P|zostało 45 minut
+E|none of the tables has space
+P|przy żadnym ze stolików nie ma już miejsca
 
 
-E|working in
-P|sobie swoją przyszłą pracę
+E|Tomek was really stressed out
+P|Tomek był bardzo zestresowany
 
 
-E|in the last couple of months,
-P|W ciągu  ostatnich miesięcy
+E|which was to take place in exactly one hour
+P|która miała odbyć się równo za godzinę
 
 
-E|walked into the café,
-P|do kawiarni weszła
+E|sit
+P|usiąść
 
 
-E|Looking around,
-P|Rozglądając się po sali,
+E|Perhaps the employees
+P|Pewnie pracownicy
 
 
-E|Hi, I’m Karolina
-P|Cześć, jestem Karolina
+E|full of people
+P|pełną ludzi
+
+
+E|he had heard the same
+P|słyszał to samo
+
+
+E|he stared at
+P|wpatrywał się
 
 
 E|he thought
 P|pomyślał
 
 
-E|plan the interview
-P|zaplanować przebieg rozmowy
+E|the e-mail inbox
+P|skrzynka e-mailowa
 
 
-E|he had to pass the job interview,
-P|musiał przejść rozmowę kwalifikacyjną,
+E|drinking freshly ground coffee
+P|popijał świeżą kawę
 
 
-E|At the same moment,
-P|W tej samej chwili
+E|was to begin in 45 minutes
+P|zostało 45 minut
 
 
-E|which was to begin in an hour
-P|która miała odbyć się równo za godzinę
+E|he had nothing to lose
+P|Nie miał już nic do stracenia
+
+
+E|on the first floor,
+P|na parterze,
+
+
+E|We will contact you soon
+P|Odezwiemy się do Pana wkrótce
+
+
+E|Looking at the street
+P|Patrząc na ulicę
+
+
+E|looked
+P|spojrzał
+
+
+E|Tom's telephone was silent,
+P|telefon Tomka milczał,
 
 
 E|Tomek looked at his watch
 P|Tomek spojrzał na zegarek
 
 
-E|she saw
-P|zauważyła
+E|Looking around the room
+P|Rozglądając się po sali
+
+
+E|The longer he practiced,
+P|Im dłużej ćwiczył w myślach
 
 
 E|Tomek imagined
@@ -138,135 +146,255 @@ E|Tomek was so stressed
 P|Tomek był tak zestresowany,
 
 
-E|Looking at the street
-P|Patrząc na ulicę
-
-
-E|which he had imagined
-P|w którym wyobrażał
-
-
-E|full of people rushing to their work
-P|pełną ludzi spieszących się do pracy
-
-
-E|He was sitting at his desk
-P|Siedział przy biurku na najwyższym piętrze wieżowca
-
-
-E|But that day
-P|Tego dnia
-
-
-E|Suddenly,
-P|Wtem,
-
-
-E|go ahead
-P|Zapraszam
+E|skyscraper
+P|wieżowca
 
 
 E|his dream job
 P|sobie swoją wymarzoną posadę
 
 
-E|and the e-mail inbox was empty
-P|a skrzynka e-mailowa pozostawała pusta
+E|elegantly dressed
+P|elegancko ubrana
 
 
-E|We will contact you soon
-P|Odezwiemy się do Pana wkrótce
+E|document files
+P|plik dokumentów
 
 
-E|he had attended ten job interviews
-P|był w sumie na dziesięciu rozmowach o pracę
+E|have a lunch break,
+P|mają przerwę
 
 
-E|have some espresso
-P|wypić espresso
+E|He  stared at the clock hand
+P|wpatrywał się jeszcze we wskazówkę zegara,
 
 
-E|She ordered some coffee
-P|Zamówiła kawę
+E|on the top floor of the skyscraper
+P|na najwyższym piętrze wieżowca
 
 
-E|Sure
-P|Pewnie
+E|already
+P|już
 
 
-E|an elegantly dressed woman
-P|elegancko ubrana kobieta,
+E|Tomek decided to sit
+P|Tomek postanowił usiąść
 
 
-E|Tomek was slowly losing hope
-P|Tomek powoli stracił nadzieję na otrzymanie pracy
+E|watch
+P|zegarek
 
 
-E|The longer he practiced,
-P|Im dłużej ćwiczył w myślach,
+E|Can I sit?
+P|Czy mogę się dosiąść?
 
 
-E|he couldn’t get rid of huge discomfort
-P|uczucie zdenerwowania nie opuszczało go ani na chwilę
+E|months
+P|miesięcy
 
 
-E|the telephone was silent,
-P|telefon Tomka milczał,
+E|Suddenly
+P|Wtem
 
 
-E|on the first floor,
-P|na parterze,
+E|she asked
+P|zapytała
 
 
-E|drinking freshly ground coffee
-P|popijał świeżą kawę
+E|not for a moment
+P|ani na chwilę
 
 
-E|quickly realized
-P|szybko zorientowała się,
-
-
-E|he decided to give his best
-P|postanowił dać z siebie wszystko
-
-
-E|Tomek was really stressed out
-P|Tomek był bardzo zestresowany
-
-
-E|the traffic lights turned green
-P|światło na ulicy zmieniło się na zielone
-
-
-E|She was holding a couple of documents
-P|trzymająca w ręku plik dokumentów
-
-
-E|that he hadn’t noticed
-P|że nawet nie zauważył
-
-
-E|that there hadn’t been any seats left
-P|że przy żadnym ze stolików nie ma już miejsca
+E|It was a foggy, cold morning
+P|Był mglisty, zimny poranek
 
 
 E|make a good impression
 P|zrobić jak najlepsze wrażenie
 
 
-E|After all, he had nothing to lose
-P|Nie miał już nic do stracenia
+E|last
+P|ostatnich
 
 
-E|Can I sit here?
-P|Czy mogę się dosiąść?
+E|the more he stressed
+P|tym bardziej się stresował
+
+
+E|what he wants to say
+P|co chce powiedzieć
+
+
+E|he hadn’t noticed
+P|nawet nie zauważył
+
+
+E|by Tomek's table
+P|przy stoliku Tomka
+
+
+E|full of people
+P|pełen ludzi
+
+
+E|really close to the place
+P|już o krok od miejsca
+
+
+E|close (to a place)
+P|krok
+
+
+E|he had to pass the job interview,
+P|musiał przejść rozmowę kwalifikacyjną,
+
+
+E|The meeting with the recruiter
+P|Do spotkania z rekruterem
+
+
+E|At the same moment,
+P|W tej samej chwili
+
+
+E|holding in the hand
+P|trzymająca w ręku
+
+
+E|drink espresso
+P|wypić espresso
+
+
+E|go ahead
+P|Zapraszam
+
+
+E|He had only half an hour
+P|Zostało już tylko pół godziny
+
+
+E|there is a free seat
+P|jest wolne miejsce
+
+
+E|for a moment
+P|Przez chwilę
+
+
+E|rushing to their work
+P|spieszących się do pracy
+
+
+E|each time
+P|każdym razem
+
+
+E|highest
+P|najwyższym
+
+
+E|soon
+P|wkrótce
+
+
+E|exactly one hour
+P|równo za godzinę
+
+
+E|looked
+P|spojrzał
+
+
+E|plan the interview
+P|zaplanować przebieg rozmowy
+
+
+E|in the last couple of months,
+P|W ciągu  ostatnich miesięcy
+
+
+E|he decided
+P|postanowił
+
+
+E|He knew
+P|Wiedział
+
+
+E|Tomek was
+P|Tomek był
+
+
+E|that day
+P|Tego dnia
+
+
+E|foggy
+P|mglisty
+
+
+E|cafeteria
+P|bufet
+
+
+E|seemed to move faster and faster
+P|zdawała się przyspieszać z sekundy na sekundę
+
+
+E|nervous feeling
+P|uczucie zdenerwowania
+
+
+E|holding
+P|trzymająca
+
+
+E|he had imagined
+P|wyobrażał
+
+
+E|didn't leave him
+P|nie opuszczało go
+
+
+E|if he didn’t get this job,
+P|jeśli nie dostanie tej pracy,
+
+
+E|he would have had to move
+P|będzie musiał wyprowadzić się
+
+
+E|entered the café,
+P|do kawiarni weszła
+
+
+E|to his parents’
+P|do swoich rodziców
+
+
+E|traffic lights
+P|światło na ulicy
+
+
+E|café
+P|bufecie
 
 
 E|Before all that
 P|Najpierw jednak
 
 
-E|he had heard the same exact words:
-P|słyszał to samo:
+E|all in all
+P|sumie
+
+
+E|Sure
+P|Pewnie
+
+
+E|Tomek was slowly losing hope
+P|Tomek powoli stracił nadzieję
 
 
