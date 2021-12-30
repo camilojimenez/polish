@@ -1,304 +1,384 @@
-E|this was the office
-P|to był ten pokój
-
-
-E|Tomek found out
-P|Tomek dowiedział się,
-
-
-E|top floor
-P|ostatnie piętro
-
-
-E|Tomek realized
-P|Tomek zdał sobie sprawę,
-
-
-E|living in Warsaw
-P|mieszkaniu w Warszawie
-
-
-E|The conversation with Karolina
-P|Rozmowa z Karoliną
-
-
-E|but finally,
-P|ale w końcu
-
-
-E|Sometimes
-P|Czasem
-
-
-E|I have visited several companies already,
-P|Byłem już w kilku firmach
-
-
-E|can see the strong assets at first sight
-P|umie dostrzec mocne strony drugiej osoby na pierwszy rzut oka
-
-
 E|He even showed her his CV
 P|Pokazał jej nawet swoje CV,
 
 
-E|you are so talented
-P|na dodatek jesteś bardzo utalentowany
+E|interesting people
+P|ciekawych ludzi
 
 
-E|about university graduation,
-P|o ukończeniu studiów
-
-
-E|Tomek didn’t know what to say,
-P|Tomek  nie wiedział co odpowiedzieć,
-
-
-E|put the documents
-P|schował dokumenty
-
-
-E|Karolina said
-P|dodała Karolina
-
-
-E|make a good impression
-P|pokazać się z jak najlepszej strony
-
-
-E|office 505
-P|pokój 505
-
-
-E|I came here because
-P|Przyszedłem na
-
-
-E|which begins in 30 minutes
-P|która ma odbyć się za pół godziny
-
-
-E|skills need a little bit of luck
-P|umiejętności potrzebują trochę szczęścia
-
-
-E|it’s  stress
-P|to stres
-
-
-E|I’m still unemployed
-P|nadal jestem bez pracy
-
-
-E|job interview
-P|rozmowę o pracę,
-
-
-E|he decided to tell her the truth:
-P|postanowił powiedzieć prawdę:
-
-
-E|briefcase,
-P|teczki
-
-
-E|so that she could tell him
-P|aby powiedziała mu
-
-
-E|He was about to go in
-P|Już za chwilę będzie w środku
-
-
-E|You graduated
-P|Ukończyłeś
-
-
-E|beat stress
-P|pokonać stres
-
-
-E|Thanks for your support
-P|Dzięki za wsparcie
-
-
-E|started in a moment
-P|się już za kilka minut
-
-
-E|about his life,
-P|o swoim życiu,
-
-
-E|Do you work here?
-P|Czy ty u nas pracujesz?
-
-
-E|Sometimes,
-P|Czasem
-
-
-E|He didn’t want to be late,
-P|Nie chciał się spóźnić,
-
-
-E|Yes,
-P|Tak,
-
-
-E|each time they kept extolling my skills
-P|każdym razem mnie chwalili
-
-
-E|your talent
-P|twój talent
-
-
-E|I have seen you for the first time
-P|widzę cię pierwszy raz
-
-
-E|Take care
-P|Trzymaj się
-
-
-E|he had to
-P|musi
-
-
-E|she had been working in the company
-P|pracuje w firmie już
-
-
-E|I will keep my fingers crossed,
-P|Będę trzymać za ciebie kciuki,
+E|office
+P|pokój
 
 
 E|getting the job
 P|dostanie pracy
 
 
-E|He decided to tell her
-P|Postanowił opowiedzieć jej
+E|Thanks for your support
+P|Dzięki za wsparcie
+
+
+E|skills
+P|umiejętności
+
+
+E|living in Warsaw
+P|mieszkaniu w Warszawie
+
+
+E|he took the last sip of his espresso,
+P|wziął ostatni łyk espresso,
+
+
+E|but finally
+P|ale w końcu
+
+
+E|sip
+P|łyk
 
 
 E|Nice to meet you
 P|Miło mi
 
 
-E|After a couple of minutes,
-P|Po kilku chwilach
+E|other person
+P|drugiej osoby
 
 
-E|I hope you’ll get the job,
-P|Mam nadzieję, że dostaniesz tę pracę,
-
-
-E|since she was meeting new people all the time
-P|ponieważ spotyka w niej wielu ciekawych ludzi
-
-
-E|she said after seeing his résumé
-P|stwierdziła Karolina po obejrzeniu życiorysu Tomka
-
-
-E|Tomek replied
-P|odpowiedział Tomek
-
-
-E|He saw
-P|Wtem zauważył
-
-
-E|took the elevator
-P|pojechał windą
+E|this was the office
+P|to był ten pokój
 
 
 E|the interview
 P|rozmowa rozpoczyna
 
 
-E|Karolina was a really nice person
-P|Karolina była bardzo miłą osobą
+E|your talent
+P|twój talent
 
 
-E|Not everyone
-P|Nie każdy
+E|each time
+P|każdym razem
 
 
-E|so he took the last sip of his espresso,
-P|dlatego wziął ostatni łyk espresso,
+E|every day
+P|I take a break every day
 
 
-E|Our company
-P|Nasza firma
+E|In addition
+P|na dodatek
 
 
-E|about stress
-P|o stresie
+E|I have seen
+P|widzę
 
 
-E|whether he had any chances of
-P|czy ma jakieś szanse na
+E|several years
+P|kilku lat
 
 
-E|Regardless,
-P|Mimo wszystko,
+E|skills need a little bit of luck
+P|umiejętności potrzebują trochę szczęścia
 
 
-E|from the top university
-P|najlepszy uniwersytet
+E|I’m still unemployed
+P|nadal jestem bez pracy
+
+
+E|You graduated
+P|Ukończyłeś
+
+
+E|job interview
+P|rozmowę o pracę
+
+
+E|Tomek realized
+P|Tomek zdał sobie sprawę,
+
+
+E|I have visited several companies already
+P|Byłem już w kilku firmach
+
+
+E|he had to
+P|musi
+
+
+E|make a good impression
+P|pokazać się z jak najlepszej strony
+
+
+E|I hope you’ll get the job,
+P|Mam nadzieję że dostaniesz tę pracę,
+
+
+E|after seeing Tomek's résumé
+P|po obejrzeniu życiorysu Tomka
+
+
+E|I have been coming here
+P|Przychodzę tu na
 
 
 E|He knew
-P|Wiedział,
+P|Wiedział
 
 
-E|is looking for someone like you
-P|szuka ludzi takich jak ty
+E|He saw
+P|Wtem zauważył
 
 
-E|Your CV looks really cool
-P|Twoje CV wygląda naprawdę dobrze
+E|you are so talented
+P|jesteś bardzo utalentowany
 
 
-E|made him uplifted
-P|dodała mu otuchy
+E|what to say,
+P|co odpowiedzieć,
 
 
-E|Try to forget
-P|Postaraj się zapomnieć
+E|office 505
+P|pokój 505
 
 
-E|I have been coming here every day,
-P|Przychodzę tu na przerwę codziennie
+E|he decided to tell her the truth
+P|postanowił powiedzieć prawdę
+
+
+E|Tomek replied
+P|odpowiedział Tomek
+
+
+E|keep
+P|trzymać
+
+
+E|luck
+P|szczęścia
+
+
+E|put the documents
+P|schował dokumenty
+
+
+E|Sometimes
+P|Czasem
+
+
+E|to tell him
+P|aby powiedziała mu
 
 
 E|in the city,
 P|w mieście
 
 
-E|blocks our presenting
-P|blokuje naszą prezentację
+E|After a couple of minutes,
+P|Po kilku chwilach
 
 
-E|I’m Tomek
-P|Jestem Tomek
+E|really
+P|naprawdę
 
 
-E|several years,
-P|kilku lat
+E|at first glance
+P|na pierwszy rzut oka
+
+
+E|Karolina was a really nice person
+P|Karolina była bardzo miłą osobą
+
+
+E|top floor
+P|ostatnie piętro
+
+
+E|already
+P|już
+
+
+E|took the elevator
+P|pojechał windą
+
+
+E|she had been working in the company
+P|pracuje w firmie już
+
+
+E|Tomek didn’t know
+P|Tomek nie wiedział
+
+
+E|I will keep my fingers crossed,
+P|Będę trzymać za ciebie kciuki,
+
+
+E|about university graduation,
+P|o ukończeniu studiów
 
 
 E|I don’t work here
 P|Nie pracuję tutaj
 
 
-E|What is wrong with me?
-P|Co jest ze mną nie tak?
+E|since she was meeting interesting people all the time
+P|ponieważ spotyka w niej wielu ciekawych ludzi
+
+
+E|beat stress
+P|pokonać stres
+
+
+E|He didn’t want to be late
+P|Nie chciał się spóźnić
+
+
+E|floor
+P|piętro
+
+
+E|Karolina said
+P|dodała Karolina
+
+
+E|is looking for someone like you
+P|szuka ludzi takich jak ty
+
+
+E|Karolina said
+P|stwierdziła Karolina
+
+
+E|whether he had any chances of
+P|czy ma jakieś szanse na
+
+
+E|need
+P|potrzebują
+
+
+E|from the top university
+P|najlepszy uniwersytet
 
 
 E|[she] really liked her job
 P|bardzo lubi swoją pracę
+
+
+E|blocks our presenting
+P|blokuje naszą prezentację
+
+
+E|I came here because
+P|Przyszedłem na
+
+
+E|He decided to tell her
+P|Postanowił opowiedzieć jej
+
+
+E|which begins
+P|która ma odbyć się
+
+
+E|The conversation with Karolina
+P|Rozmowa z Karoliną
+
+
+E|Do you work here?
+P|Czy ty u nas pracujesz?
+
+
+E|Sometimes
+P|Czasem
+
+
+E|Take care
+P|Trzymaj się
+
+
+E|seeing
+P|obejrzeniu
+
+
+E|in a few minutes
+P|się już za kilka minut
+
+
+E|I have seen you for the first time
+P|widzę cię pierwszy raz
+
+
+E|Tomek found out
+P|Tomek dowiedział się,
+
+
+E|made him uplifted
+P|dodała mu otuchy
+
+
+E|Despite everything | Regardless
+P|Mimo wszystko
+
+
+E|Try to forget
+P|Postaraj się zapomnieć
+
+
+E|Our company
+P|Nasza firma
+
+
+E|What is wrong with me?
+P|Co jest ze mną nie tak?
+
+
+E|I’m Tomek
+P|Jestem Tomek
+
+
+E|about stress
+P|o stresie
+
+
+E|about his life,
+P|o swoim życiu,
+
+
+E|Not everyone
+P|Nie każdy
+
+
+E|can see the strenghts
+P|umie dostrzec mocne strony
+
+
+E|each time they praised me
+P|każdym razem mnie chwalili
+
+
+E|Your CV looks really good
+P|Twoje CV wygląda naprawdę dobrze
+
+
+E|briefcase,
+P|teczki
+
+
+E|late
+P|spóźnić
+
+
+E|person
+P|osobą
+
+
+E|half hour
+P|pół godziny
+
+
+E|he decided
+P|postanowił
 
 
