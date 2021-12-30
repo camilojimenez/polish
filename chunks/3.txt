@@ -1,33 +1,36 @@
 E|Tomek couldn’t believe his ears
+he believed
 P|Tomek nie wierzył w to co usłyszał
+wierzył
 
 
 E|I learned everything about you
 P|Wszystkiego o tobie dowiedziałam się
 
 
-E|Before he could say anything,
-P|Zanim zdążył cokolwiek powiedzieć,
+E|Before he could say anything
+anything | whatever
+P|Zanim zdążył cokolwiek powiedzieć
+cokolwiek
 
-
-E|Karolina replied and added:
-P|Karolina i dodała:
+E|Karolina added:
+P|Karolina  dodała:
 
 
 E|replied quickly
-P|odpowiedział  szybko
+P|odpowiedział szybko
 
 
 E|I had a hunch
 P|Miałam przeczucie
 
 
-E|Tomek handed the documents over to the secretary,
+E|Tomek handed all the documents to the secretary
 P|Tomek podał wszystkie dokumenty sekretarce
 
 
 E|The woman sitting at the desk
-P|Przy biurku siedziała kobieta,
+P|Przy biurku siedziała kobieta
 
 
 E|Karolina broke in:
