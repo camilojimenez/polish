@@ -1,215 +1,360 @@
-E|Tomek couldn’t believe his ears
-he believed
-P|Tomek nie wierzył w to co usłyszał
-wierzył
+E|after
+P|po
 
 
-E|I learned everything about you
-P|Wszystkiego o tobie dowiedziałam się
-
-
-E|Before he could say anything
-anything | whatever
-P|Zanim zdążył cokolwiek powiedzieć
-cokolwiek
-
-E|Karolina added:
-P|Karolina  dodała:
-
-
-E|replied quickly
-P|odpowiedział szybko
-
-
-E|I had a hunch
-P|Miałam przeczucie
-
-
-E|Tomek handed all the documents to the secretary
-P|Tomek podał wszystkie dokumenty sekretarce
-
-
-E|The woman sitting at the desk
-P|Przy biurku siedziała kobieta
-
-
-E|Karolina broke in:
-P|Karolina przerwała mu i dodała:
-
-
-E|Would you like to have some coffee?
-P|Czy chciałby Pan napić się kawy?
-
-
-E|I decided not to tell you
-P|Postanowiłam nic ci nie mówić
-
-
-E|After a second, he couldn’t believe his eyes
-P|Po chwili nie mógł uwierzyć swoim oczom
-
-
-E|He was really happy
-P|Był bardzo szczęśliwy
-
-
-E|I can’t ruin it,
-P|Nie mogę tego zepsuć,
-
-
-E|he asked
-P|zapytał
-
-
-E|Hi, Tomek!
-P|Cześć Tomek
-
-
-E|Hi!
-P|Cześć!
-
-
-E|during our conversation in the café
-P|podczas naszej rozmowy w kawiarni
-
-
-E|This was his moment
-P|To był ten moment
-
-
-E|the secretary asked politely
-P|zapytała uprzejmie sekretarka
-
-
-E|in which the interview was supposed to take place
-P|w którym Tomek miała być rozmowa
-
-
-E|Karolina said
-P|powiedziała Karolina
-
-
-E|I wanted to see
-P|Chciałam zobaczyć
+E|You have the job
+P|Masz tę pracę
 
 
 E|there wasn’t a way of escape
 P|nie ma już drogi ucieczki
 
 
-E|Surprised?
-P|Zaskoczony?
+E|your surprised face
+P|twoją zaskoczoną minę
 
 
-E|there was the office
-P|znajdował się pokój,
+E|on the ground floor
+P|na parterze
 
 
-E|all the stress was gone
+E|during
+P|podczas
+
+
+E|happy | lucky
+P|szczęśliwy
+
+
+E|After a moment
+P|Po chwili
+
+
+E|waits
+P|czeka
+
+
+E|all the stress was suddenly gone
 P|cały stres nagle go opuścił
 
 
-E|Karolina?
-P|Karolina?
-
-
-E|And after you showed me your CV,
-P|po tym jak pokazałeś mi swoje CV
-
-
-E|he thought
-P|pomyślał
-
-
-E|I can’t believe it’s you
-P|Nie mogę uwierzyć że to ty
-
-
-E|Did you know?
-P|Wiedziałaś?
-
-
-E|was the same woman he talked to 30 minutes ago
-P|z którą pół godziny temu rozmawiał w kawiarni na parterze
-
-
-E|I knew The moment I saw it, I recalled that you sent us the exact same thing a week ago,
-P|Wtedy przypomniałam sobie, że takie samo wysłałeś do nas mailem tydzień temu Odpowiedziała
-
-
-E|You just got the job
-P|Masz tę pracę
-
-
-E|I don’t have to know anything else
-P|Nie muszę już nic więcej wiedzieć
-
-
-E|Tomek knew
-P|Tomek wiedział,
-
-
-E|and on the right,
-P|a po prawej stronie
-
-
-E|In the middle,
-P|Po środku
-
-
-E|This has to be a coincidence,
-P|To musi być zbieg okoliczności,
-
-
-E|and I get the dream job
-P|dzieli mnie od mojej wymarzonej pracy
+E|feeling | hunch
+P|przeczucie
 
 
 E|he thought
 P|pomyślał Tomek
 
 
-E|and nervously took off his jacket
-P|i nerwowo ściągnął kurtkę
+E|Did you know?
+P|Wiedziałaś?
 
 
-E|Ms Karolina is waiting for you
-P|Pani Karolina czeka na Pana
+E|he knew
+P|he wiedział
 
 
-E|Tomek felt
-P|Tomek poczuł
+E|Then I remembered
+P|Wtedy przypomniałam sobie,
 
 
-E|No, thanks,
-P|Nie dziękuję,
+E|he didn't believe
+P|nie wierzył
 
 
-E|there was a secretary,
-P|siedziała sekretarka,
+E|know nothing more
+P|nic więcej wiedzieć
 
 
-E|The office was huge
-P|Biuro było duże
-
-
-E|And suddenly
-P|I nagle
+E|I can’t believe it’s you
+P|Nie mogę uwierzyć że to ty
 
 
 E|entered the office
 P|wszedł do pokoju
 
 
-E|He went in
-P|Wszedł do środka
+E|[she] said
+P|powiedziała
 
 
-E|your surprised face
-P|twoją zaskoczoną minę
+E|I had a hunch
+P|Miałam przeczucie
+
+
+E|In the middle,
+P|Po środku
+
+
+E|Ms Karolina waits for you
+P|Pani Karolina czeka na Pana
+
+
+E|I found out
+P|dowiedziałam
+
+
+E|take off (a jacket)
+P|ściągnął
+
+
+E|you sent
+P|wysłałeś
+
+
+E|you mailed the same thing
+P|takie samo wysłałeś do nas mailem
+
+
+E|suddenly
+P|nagle
+
+
+E|during our conversation in the café
+P|podczas naszej rozmowy w kawiarni
+
+
+E|[he] handed
+P|podał
+
+
+E|way of escape
+P|drogi ucieczki
+
+
+E|dream
+P|wymarzonej
+
+
+E|There was a woman sitting at the desk
+P|Przy biurku siedziała kobieta
+
+
+E|what he heard
+P|to co usłyszał
+
+
+E|I don’t have to know anything else
+P|Nie muszę już nic więcej wiedzieć
+
+
+E|after you showed me your CV
+P|po tym jak pokazałeś mi swoje CV
+
+
+E|decided
+P|Postanowiłam
+
+
+E|Would you like to have some coffee?
+P|Czy chciałby Pan napić się kawy?
+
+
+E|Karolina?
+P|Karolina?
+
+
+E|she replied
+P|Odpowiedziała
+
+
+E|more
+P|więcej
+
+
+E|with whom
+P|z którą
+
+
+E|he couldn’t
+P|nie mógł
+
+
+E|suddenly
+P|nagle
+
+
+E|nervously took off his jacket
+P|nerwowo ściągnął kurtkę
+
+
+E|separates me
+P|dzieli mnie
+
+
+E|and on the right side
+P|a po prawej stronie
+
+
+E|half an hour ago
+P|pół godziny temu
+
+
+E|entered (a place)
+P|wszedł
+
+
+E|I can’t ruin it
+P|Nie mogę tego zepsuć
+
+
+E|Tomek felt
+P|Tomek poczuł
+
+
+E|anything | whatever
+P|cokolwiek
+
+
+E|ruin it
+P|tego zepsuć
+
+
+E|Tomek handed all the documents to the secretary
+P|Tomek podał wszystkie dokumenty sekretarce
+
+
+E|he thought
+P|pomyślał
+
+
+E|He was really happy
+P|Był bardzo szczęśliwy
+
+
+E|I learned everything about you
+P|Wszystkiego o tobie dowiedziałam się
+
+
+E|coincidence
+P|zbieg okoliczności
+
+
+E|interrupted
+P|przerwała
+
+
+E|This was his moment
+P|To był ten moment
+
+
+E|wszystkie
+P|all
+
+
+E|This has to be a coincidence
+P|To musi być zbieg okoliczności
+
+
+E|found
+P|znajdował
+
+
+E|Tomek couldn’t believe what he heard
+P|Tomek nie wierzył w to co usłyszał
+
+
+E|remembered
+P|przypomniałam
+
+
+E|he did
+P|zdążył
+
+
+E|jacket
+P|kurtkę
+
+
+E|believe his eyes
+P|uwierzyć swoim oczom
+
+
+E|replied quickly
+P|odpowiedział szybko
+
+
+E|the secretary asked politely
+P|zapytała uprzejmie sekretarka
+
+
+E|kindly
+P|uprzejmie
 
 
 E|One interview
 P|Jedna rozmowa
+
+
+E|he asked
+P|zapytał
+
+
+E|she asked
+P|zapytała
+
+
+E|The office was huge
+P|Biuro było duże
+
+
+E|there was the office
+P|znajdował się pokój
+
+
+E|Karolina interrupted him and added
+P|Karolina przerwała mu i dodała
+
+
+E|Karolina added
+P|Karolina dodała
+
+
+E|he chatted in the café
+P|rozmawiał w kawiarni
+
+
+E|replied
+P|odpowiedział
+
+
+E|Karolina said
+P|powiedziała Karolina
+
+
+E|No, thanks
+P|Nie dziękuję
+
+
+E|a week ago,
+P|tydzień temu
+
+
+E|surprised
+P|zaskoczoną
+
+
+E|I decided not to tell you
+P|Postanowiłam nic ci nie mówić
+
+
+E|before
+P|zanim
+
+
+E|he believed
+P|wierzył
+
+
+E|I wanted to see
+P|Chciałam zobaczyć
+
+
+E|separates me and my dream job
+P|dzieli mnie od mojej wymarzonej pracy
+
+
+E|Before he could say anything
+P|Zanim zdążył cokolwiek powiedzieć
 
 

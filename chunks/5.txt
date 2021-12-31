@@ -1,120 +1,246 @@
-E|She lived in the suburbs with her parents, she was going to school, and she had a few friends
-P|Mieszkała na przedmieściach z rodzicami, chodziła do szkoły, miała kilku przyjaciół
+E|After each 
+hairdressing appointment
+P|Po każdej
+ wizycie u fryzjera
 
 
-E|But there was something that made her special—long, beautiful hair that grew really fast
-P|Było jednak coś, co odróżniało ją od reszty znajomych ze szkoły—długie, piękne włosy, które odrastały bardzo szybko
+E|She lived in 
+the suburbs 
+with her parents
+P|Mieszkała na
+ przedmieściach 
+ z rodzicami
 
 
-E|After each hairdressing appointment, her hair grew out rapidly within a couple of months
-P|Po każdej wizycie u fryzjera włosy odrastały gwałtownie w ciągu kilku miesięcy
+E|She wanted to eat it quickly
+P|Chciała go zjeść jak najszybciej
 
 
-E|A beautiful blonde color made Sylvia stand out
-P|Piękny blond sprawiał, że Sylwia wyróżniała się w tłumie
-
-
-E|Although the girl loved her hair, she had faced many struggles because of it
-P|Pomimo tego, że dziewczyna kochała swoje włosy, były one dla niej codziennym utrapieniem
-
-
-E|Washing, drying, brushing—everything had taken much time and required a lot of effort
-P|Mycie, suszenie, czesanie—wszystko zajmowało bardzo dużo czasu i wymagało wiele pracy
+E|Thanks to her job
+P|Dzięki jej pracy
 
 
 E|Even making a simple hairstyle seemed to last endlessly
 P|Nawet zrobienie najprostszej fryzury zdawało się trwać wieczność
 
 
-E|One day, after coming back from school, Sylvia made a simple bun and started to eat her dinner
-P|Pewnego dnia, po powrocie ze szkoły Sylwia spięła włosy w kok i zaczęła jeść obiad
+E|Meanwhile
+P|Tymczasem
 
 
-E|She wanted to eat it quickly because she was meeting her friend to study with her for an English test in an hour
-P|Chciała go zjeść jak najszybciej, ponieważ za godzinę miała przyjść do niej przyjaciółka na wspólną naukę do testu z angielskiego
+E|Sylvia had been receiving pocket money
+P|Sylwia dostawała kieszonkowe
 
 
-E|Meanwhile, her mother came in
-P|Tymczasem, do domu weszła mama
+E|discover new places
+P|odwiedzać nowe miejsca
 
 
-E|Sylvia looked at her, and she knew that something was wrong
-P|Sylwia spojrzała na nią i już wiedziała, że coś jest nie tak
+E|Mom answered
+P|odpowiedziała Mama
 
 
-E|Hi, Mom! What happened? You look different, she asked
-P|Hej, Mamo! Co się stało? Wyglądasz dziwnie, zapytała
+E|drying
+P|suszenie
 
 
-E|Hi, honey
-P|Cześć, kochanie
+E|she had faced many struggles because of it
+P|były one dla niej codziennym utrapieniem
 
 
-E|I have just lost my job, Mom answered
-P|Właśnie zwolnili mnie z pracy, odpowiedziała Mama
+E|her hair grew out rapidly within a couple of months
+P|włosy odrastały gwałtownie w ciągu kilku miesięcy
 
 
-E|But
-P|Ale
-
-
-E|how? What are you gonna do? Sylvia panicked
-P|jak? Co zamierzasz zrobić? Sylwia wpadła w panikę
-
-
-E|Her mom had had a pretty good salary
-P|Jej mama zarabiała dobrze
-
-
-E|Thanks to her job, Sylvia had been receiving pocket money and had been taking part in summer camps
-P|Dzięki jej pracy Sylwia dostawała kieszonkowe i jeździła na obozy wakacyjne
-
-
-E|I expected this to happen
-P|Spodziewałam się tego już od jakiegoś czasu
-
-
-E|The company doesn’t do well
-P|W firmie nie jest dobrze
-
-
-E|We have to cut our expenses for a while
-P|Przez jakiś czas będziemy musieli ograniczyć wydatki
-
-
-E|We will make a living by Dad’s salary until I find a new job, Mom replied
-P|Dopóki nie znajdę nowej pracy będziemy żyć z pensji Taty, odpowiedziała Mama
-
-
-E|Sylvia already knew the answer, yet she asked:
-P|Sylwia już znała odpowiedź, ale spytała:
-
-
-E|Does this mean that I won’t go to the camp this year?
-P|Czy to oznacza, że nie pojadę w tym roku na obóz?
-
-
-E|I’m afraid so, honey
-P|Obawiam się że tak, kochanie
-
-
-E|I’m sorry
-P|Przepraszam
-
-
-E|Sylvia was heartbroken
-P|Sylwia była załamana
+E|made Sylvia stand out
+P|że Sylwia wyróżniała się w tłumie
 
 
 E|She had been waiting for the camp for the entire year
 P|Cały rok czekała na ten obóz
 
 
-E|She wanted to meet her friends again, experience new adventures, and discover new places
-P|Chciała znów spotkać się ze swoimi przyjaciółmi, przeżywać przygody i odwiedzać nowe miejsca
+E|But
+P|Ale
 
 
-E|Unfortunately, she knew that her dad’s salary was not enough to cover daily expenses and the cost of her camp
-P|Niestety, wiedziała również, że pensja taty nie wystarczy na pokrycie codziennych wydatków i wyjazdu
+E|how?
+P|jak?
+
+
+E|she asked
+P|zapytała
+
+
+E|after coming back from school
+P|po powrocie ze szkoły
+
+
+E|Her mom had had a pretty good salary
+P|Jej mama zarabiała dobrze
+
+
+E|cover daily expenses and the cost of her camp
+P|pokrycie codziennych wydatków i wyjazdu
+
+
+E|Does this mean that I won’t go to the camp this year?
+P|Czy to oznacza, że nie pojadę w tym roku na obóz?
+
+
+E|Although the girl loved her hair
+P|Pomimo tego, że dziewczyna kochała swoje włosy
+
+
+E|Mom replied
+P|odpowiedziała Mama
+
+
+E|which grew really fast
+P|które odrastały bardzo szybko
+
+
+E|Sylvia already knew the answer
+P|Sylwia już znała odpowiedź
+
+
+E|You look different,
+P|Wyglądasz dziwnie
+
+
+E|her mother came in
+P|do domu weszła mama
+
+
+E|required a lot of effort
+P|wymagało wiele pracy
+
+
+E|A beautiful blonde color
+P|Piękny blond sprawiał
+
+
+E|I’m afraid so
+P|Obawiam się że tak
+
+
+E|everything had taken much time
+P|wszystko zajmowało bardzo dużo czasu
+
+
+E|beautiful hair
+P|piękne włosy
+
+
+E|Sylvia looked at her,
+P|Sylwia spojrzała na nią
+
+
+E|One day
+P|Pewnego dnia
+
+
+E|had been taking part in summer camps
+P|jeździła na obozy wakacyjne
+
+
+E|she knew that something was wrong
+P|już wiedziała, że coś jest nie tak
+
+
+E|because she was meeting her friend to study with her for an English test in an hour
+P|ponieważ za godzinę miała przyjść do niej przyjaciółka na wspólną naukę do testu z angielskiego
+
+
+E|What are you gonna do?
+P|Co zamierzasz zrobić?
+
+
+E|What happened?
+P|Co się stało?
+
+
+E|she was going to school, and she had a few friends
+P|chodziła do szkoły, miała kilku przyjaciół
+
+
+E|Sylvia was heartbroken
+P|Sylwia była załamana
+
+
+E|honey
+P|kochanie
+
+
+E|Sylvia panicked
+P|Sylwia wpadła w panikę
+
+
+E|she knew that her dad’s salary was not enough
+P|wiedziała również, że pensja taty nie wystarczy
+
+
+E|But there was something that made her special—long
+P|Było jednak coś, co odróżniało ją od reszty znajomych ze szkoły—długie
+
+
+E|I’m sorry
+P|Przepraszam
+
+
+E|The company doesn’t do well
+P|W firmie nie jest dobrze
+
+
+E|I have just lost my job
+P|Właśnie zwolnili mnie z pracy
+
+
+E|Sylvia made a simple bun and started to eat her dinner
+P|Sylwia spięła włosy w kok i zaczęła jeść obiad
+
+
+E|yet she asked
+P|ale spytała
+
+
+E|brushing
+P|czesanie
+
+
+E|Unfortunately
+P|Niestety
+
+
+E|I expected this to happen
+P|Spodziewałam się tego już od jakiegoś czasu
+
+
+E|We will make a living by Dad’s salary until I find a new job
+P|Dopóki nie znajdę nowej pracy będziemy żyć z pensji Taty
+
+
+E|Hi, honey
+P|Cześć, kochanie
+
+
+E|We have to cut our expenses for a while
+P|Przez jakiś czas będziemy musieli ograniczyć wydatki
+
+
+E|Washing
+P|Mycie
+
+
+E|experience new adventures
+P|przeżywać przygody
+
+
+E|Hi, Mom!
+P|Hej, Mamo!
+
+
+E|She wanted to meet her friends again
+P|Chciała znów spotkać się ze swoimi przyjaciółmi
 
 
